@@ -6,4 +6,4 @@ Ejecutar siguiente comando para las librerias
 
 ## Ejemplo
 
-```node app -d Quilpue Chile ```
+```node app -d "Quilpue Chile" ```
