@@ -4,6 +4,6 @@ Ejecutar siguiente comando para las librerias
 
 ``` npm install ```
 
-## Ejemplo:
+## Ejemplo
 
-```node app -d "Quilpue Chile ```
+```node app -d Quilpue Chile ```
